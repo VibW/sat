@@ -1,0 +1,44 @@
+body{
+background-color:#ADD8E6;
+}
+.wrapper{
+width:700px;
+height:600px;
+margin:0 auto;
+border:2px solid #000;
+}
+
+.header{
+width:100%;
+height:auto;
+background-color:#fff;
+}
+.wrapper img {
+width:100px;
+height:50px;
+float:left;
+}
+
+.right {
+       width:60%;
+       height:auto;
+}
+
+ul {
+    float:right;
+    width:100%;
+    background-color:#999;
+    height:20px;
+}
+
+li{
+    display:inline;
+}
+ul a {
+    color: white;
+    padding: 0 10px;
+    text-decoration: none;
+}
+ul a:hover {
+    color: #333;
+}
